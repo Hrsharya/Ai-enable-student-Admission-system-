@@ -48,8 +48,38 @@ Platform: Salesforce (Developer Edition)
 
 Automation: Salesforce Flow, Approval Processes
 
-AI: Agentforce Studio, Prompt Builder
+AI: Agentforce Studio, Prompt Builder  
 
 UI/UX: Lightning App Builder, Dynamic Forms
 
 Analytics: Salesforce Reports & Dashboards
+
+
+* 5 Phase Project Development :
+    Phase1: Requirement Analysis and Planning :
+        1.1 Understanding Business Requirements
+        1.2 Defining Project Scope and Objectives
+    Phase 2: Salesforce Development – Backend & Configuration : 
+        Milestone 1: Salesforce Account
+        Milestone 2: Objects Creation
+        Milestone 3- Tabs
+        Milestone 4: Fields & Relationships
+        Milestone 5 - Validation Rules
+        Milestone 6: APPROVAL PROCESS
+        Milestone7: Email Templates
+        Milestone 8: Email Alerts
+        Milestone 9: Declarative Automation (Flows)
+        Milestone 10: Agentforce AI
+    Phase 3: UI/UX Development & Customization :
+        Milestone 11: The Lightning App
+        Milestone 12 -Editing of Page Layouts
+        Milestone 13 - Dynamic Forms
+        Milestone14:Users
+    Phase 4: Data Migration, Testing & Security :
+        Milestone 15 – Duplicate and Matching Rules
+        Milestone 16: Profiles
+        Milestone 17: Roles & Role Hierarchy
+    Phase 5: Deployment, Documentation & Maintenance:
+        5.1 Deployment
+        5.2 Monitoring & Post-Deployment Support
+        5.3 Guidelines for Project Documentation Submission
